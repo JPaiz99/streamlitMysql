@@ -1,0 +1,5 @@
+host = "10.155.200.62"
+user = "hpaiz"
+passw = "1234"
+db = "imsa"
+port = "3306"
